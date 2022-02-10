@@ -8,3 +8,5 @@ pasta onde sera colocados os arquivos do projeto
 e quando junta as branchs
 5)O que é pull?
 Quando traz alteracões respositorio remoto para o repositorio local
+6)O que é branch?
+ramificações do repositorio
