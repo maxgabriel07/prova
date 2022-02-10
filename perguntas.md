@@ -6,3 +6,5 @@ empacotamento de um grupo de alterações
 pasta onde sera colocados os arquivos do projeto
 4)O que é merge/
 e quando junta as branchs
+5)O que é pull?
+Quando traz alteracões respositorio remoto para o repositorio local
